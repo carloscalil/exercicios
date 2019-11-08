@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício I\Exercício I\obj\Debug\Exercício I.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício I\Exercício I\bin\Debug\Exercício I.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício I\Exercício I\bin\Debug\Exercício I.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício I\Exercício I\bin\Debug\Exercício I.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício I\Exercício I\obj\Debug\Exercício I.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício I\Exercício I\obj\Debug\Exercício I.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício I\Exercício I\obj\Debug\Exercício I.csprojAssemblyReference.cache

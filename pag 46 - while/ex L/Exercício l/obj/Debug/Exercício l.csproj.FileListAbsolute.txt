@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício l\Exercício l\obj\Debug\Exercício l.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício l\Exercício l\obj\Debug\Exercício l.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício l\Exercício l\bin\Debug\Exercício l.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício l\Exercício l\bin\Debug\Exercício l.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício l\Exercício l\bin\Debug\Exercício l.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício l\Exercício l\obj\Debug\Exercício l.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício l\Exercício l\obj\Debug\Exercício l.pdb

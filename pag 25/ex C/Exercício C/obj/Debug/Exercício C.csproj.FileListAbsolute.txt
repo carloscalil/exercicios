@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\Jean\Exercício C\Exercício C\bin\Debug\Exercício C.exe.config
+C:\Users\aluno\Desktop\Jean\Exercício C\Exercício C\bin\Debug\Exercício C.exe
+C:\Users\aluno\Desktop\Jean\Exercício C\Exercício C\bin\Debug\Exercício C.pdb
+C:\Users\aluno\Desktop\Jean\Exercício C\Exercício C\obj\Debug\Exercício C.exe
+C:\Users\aluno\Desktop\Jean\Exercício C\Exercício C\obj\Debug\Exercício C.pdb

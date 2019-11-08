@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 2\Exercício 2\bin\Debug\Exercício 2.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 2\Exercício 2\bin\Debug\Exercício 2.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 2\Exercício 2\bin\Debug\Exercício 2.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 2\Exercício 2\obj\Debug\Exercício 2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 2\Exercício 2\obj\Debug\Exercício 2.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 2\Exercício 2\obj\Debug\Exercício 2.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 2\Exercício 2\obj\Debug\Exercício 2.csprojAssemblyReference.cache

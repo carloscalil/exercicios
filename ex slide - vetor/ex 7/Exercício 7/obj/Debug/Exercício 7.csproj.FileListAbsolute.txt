@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 7\Exercício 7\bin\Debug\Exercício 7.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 7\Exercício 7\bin\Debug\Exercício 7.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 7\Exercício 7\bin\Debug\Exercício 7.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 7\Exercício 7\obj\Debug\Exercício 7.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 7\Exercício 7\obj\Debug\Exercício 7.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 7\Exercício 7\obj\Debug\Exercício 7.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 7\Exercício 7\obj\Debug\Exercício 7.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 6\Exercício 6\bin\Debug\Exercício 6.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 6\Exercício 6\bin\Debug\Exercício 6.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 6\Exercício 6\bin\Debug\Exercício 6.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 6\Exercício 6\obj\Debug\Exercício 6.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 6\Exercício 6\obj\Debug\Exercício 6.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 6\Exercício 6\obj\Debug\Exercício 6.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 6\Exercício 6\obj\Debug\Exercício 6.pdb

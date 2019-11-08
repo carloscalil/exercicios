@@ -1,0 +1,7 @@
+C:\Users\jean_\source\repos\Exercício C\Exercício C\bin\Debug\Exercício C.exe.config
+C:\Users\jean_\source\repos\Exercício C\Exercício C\bin\Debug\Exercício C.exe
+C:\Users\jean_\source\repos\Exercício C\Exercício C\bin\Debug\Exercício C.pdb
+C:\Users\jean_\source\repos\Exercício C\Exercício C\obj\Debug\Exercício C.csprojAssemblyReference.cache
+C:\Users\jean_\source\repos\Exercício C\Exercício C\obj\Debug\Exercício C.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\Exercício C\Exercício C\obj\Debug\Exercício C.exe
+C:\Users\jean_\source\repos\Exercício C\Exercício C\obj\Debug\Exercício C.pdb

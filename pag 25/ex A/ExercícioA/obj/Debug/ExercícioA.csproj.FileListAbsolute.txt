@@ -1,0 +1,6 @@
+C:\Users\aluno\Desktop\Jean\ExercícioA\ExercícioA\bin\Debug\ExercícioA.exe.config
+C:\Users\aluno\Desktop\Jean\ExercícioA\ExercícioA\obj\Debug\ExercícioA.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Jean\ExercícioA\ExercícioA\bin\Debug\ExercícioA.exe
+C:\Users\aluno\Desktop\Jean\ExercícioA\ExercícioA\bin\Debug\ExercícioA.pdb
+C:\Users\aluno\Desktop\Jean\ExercícioA\ExercícioA\obj\Debug\ExercícioA.exe
+C:\Users\aluno\Desktop\Jean\ExercícioA\ExercícioA\obj\Debug\ExercícioA.pdb

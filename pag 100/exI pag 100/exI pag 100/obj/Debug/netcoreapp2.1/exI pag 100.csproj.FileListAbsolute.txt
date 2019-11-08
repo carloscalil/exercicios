@@ -1,0 +1,11 @@
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\bin\Debug\netcoreapp2.1\exI pag 100.deps.json
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\bin\Debug\netcoreapp2.1\exI pag 100.runtimeconfig.json
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\bin\Debug\netcoreapp2.1\exI pag 100.runtimeconfig.dev.json
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\bin\Debug\netcoreapp2.1\exI pag 100.dll
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\bin\Debug\netcoreapp2.1\exI pag 100.pdb
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\obj\Debug\netcoreapp2.1\exI pag 100.csprojAssemblyReference.cache
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\obj\Debug\netcoreapp2.1\exI pag 100.csproj.CoreCompileInputs.cache
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\obj\Debug\netcoreapp2.1\exI pag 100.AssemblyInfoInputs.cache
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\obj\Debug\netcoreapp2.1\exI pag 100.AssemblyInfo.cs
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\obj\Debug\netcoreapp2.1\exI pag 100.dll
+C:\Users\Calil\Desktop\ex matriz\pag 100\exI pag 100\exI pag 100\obj\Debug\netcoreapp2.1\exI pag 100.pdb

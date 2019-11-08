@@ -1,0 +1,76 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Exercício_H
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a, b, c, d, e, auxmaior, auxmenor;
+
+            Console.Write("Digite o primeiro valor: ");
+            a = double.Parse(Console.ReadLine());
+            Console.Write("Digite o segundo valor: ");
+            b = double.Parse(Console.ReadLine());
+            Console.Write("Digite o terceiro valor: ");
+            c = double.Parse(Console.ReadLine());
+            Console.Write("Digite o quarto valor: ");
+            d = double.Parse(Console.ReadLine());
+            Console.Write("Digite o quinto valor: ");
+            e = double.Parse(Console.ReadLine());
+		
+		//maior
+		if (a > auxmaior)
+		{
+			auxmaior = a;
+		}
+		if (b > auxmaior)
+		{
+			auxmaior = b;
+		}
+		if (c > auxmaior)
+		{
+			auxmaior = c;
+		}
+		if (d > auxmaior)
+		{
+			auxmaior = d;
+		}
+		if (e > auxmaior)
+		{
+			auxmaior = e;
+		}
+		
+		//menor
+		if (a < auxmenor)
+		{
+			auxmenor = a;	
+		}
+		if (b < auxmenor)
+		{
+			auxmenor = b;	
+		}
+		if (c < auxmenor)
+		{
+			auxmenor = c;	
+		}
+		if (d < auxmenor)
+		{
+			auxmenor = d;	
+		}
+		if (e < auxmenor)
+		{
+			auxmenor = e;	
+		}
+
+		Console.WriteLine("===========================================");
+                Console.WriteLine("O maior valor é {0} e o menor valor é {1}.", auxmaior,auxmenor);
+                Console.ReadKey();
+            }
+        }
+    }
+}

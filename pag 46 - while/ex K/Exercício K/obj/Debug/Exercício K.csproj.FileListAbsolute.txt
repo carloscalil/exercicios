@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício K\Exercício K\obj\Debug\Exercício K.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício K\Exercício K\obj\Debug\Exercício K.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício K\Exercício K\bin\Debug\Exercício K.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício K\Exercício K\bin\Debug\Exercício K.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício K\Exercício K\bin\Debug\Exercício K.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício K\Exercício K\obj\Debug\Exercício K.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.1.1 - Exercício 1\Exercício K\Exercício K\obj\Debug\Exercício K.pdb

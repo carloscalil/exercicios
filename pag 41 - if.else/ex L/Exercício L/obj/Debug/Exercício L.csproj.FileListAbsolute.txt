@@ -1,0 +1,6 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício L\Exercício L\obj\Debug\Exercício L.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício L\Exercício L\bin\Debug\Exercício L.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício L\Exercício L\bin\Debug\Exercício L.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício L\Exercício L\bin\Debug\Exercício L.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício L\Exercício L\obj\Debug\Exercício L.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício L\Exercício L\obj\Debug\Exercício L.pdb

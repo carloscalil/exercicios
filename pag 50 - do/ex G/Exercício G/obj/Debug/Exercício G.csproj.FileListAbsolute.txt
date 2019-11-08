@@ -1,0 +1,7 @@
+C:\Users\jean_\source\repos\Exercício G\Exercício G\bin\Debug\Exercício G.exe.config
+C:\Users\jean_\source\repos\Exercício G\Exercício G\bin\Debug\Exercício G.exe
+C:\Users\jean_\source\repos\Exercício G\Exercício G\bin\Debug\Exercício G.pdb
+C:\Users\jean_\source\repos\Exercício G\Exercício G\obj\Debug\Exercício G.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\Exercício G\Exercício G\obj\Debug\Exercício G.exe
+C:\Users\jean_\source\repos\Exercício G\Exercício G\obj\Debug\Exercício G.pdb
+C:\Users\jean_\source\repos\Exercício G\Exercício G\obj\Debug\Exercício G.csprojAssemblyReference.cache

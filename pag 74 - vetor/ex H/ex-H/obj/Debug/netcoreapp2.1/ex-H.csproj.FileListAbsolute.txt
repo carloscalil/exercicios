@@ -1,0 +1,11 @@
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\obj\Debug\netcoreapp2.1\ex-H.csprojAssemblyReference.cache
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\obj\Debug\netcoreapp2.1\ex-H.csproj.CoreCompileInputs.cache
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\obj\Debug\netcoreapp2.1\ex-H.AssemblyInfoInputs.cache
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\obj\Debug\netcoreapp2.1\ex-H.AssemblyInfo.cs
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\bin\Debug\netcoreapp2.1\ex-H.deps.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\bin\Debug\netcoreapp2.1\ex-H.runtimeconfig.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\bin\Debug\netcoreapp2.1\ex-H.runtimeconfig.dev.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\bin\Debug\netcoreapp2.1\ex-H.dll
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\bin\Debug\netcoreapp2.1\ex-H.pdb
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\obj\Debug\netcoreapp2.1\ex-H.dll
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-H\ex-H\obj\Debug\netcoreapp2.1\ex-H.pdb

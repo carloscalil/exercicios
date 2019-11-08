@@ -1,0 +1,14 @@
+C:\Users\jean_\source\repos\Exercício J\Exercício J\obj\Debug\Exercício J.csprojAssemblyReference.cache
+C:\Users\jean_\source\repos\Exercício J\Exercício J\obj\Debug\Exercício J.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\Exercício J\Exercício J\bin\Debug\Exercício J.exe.config
+C:\Users\jean_\source\repos\Exercício J\Exercício J\bin\Debug\Exercício J.exe
+C:\Users\jean_\source\repos\Exercício J\Exercício J\bin\Debug\Exercício J.pdb
+C:\Users\jean_\source\repos\Exercício J\Exercício J\obj\Debug\Exercício J.exe
+C:\Users\jean_\source\repos\Exercício J\Exercício J\obj\Debug\Exercício J.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\5.2.1 - Exercício 1 (do)\Exercício J\Exercício J\bin\Debug\Exercício J.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\5.2.1 - Exercício 1 (do)\Exercício J\Exercício J\bin\Debug\Exercício J.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\5.2.1 - Exercício 1 (do)\Exercício J\Exercício J\bin\Debug\Exercício J.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\5.2.1 - Exercício 1 (do)\Exercício J\Exercício J\obj\Debug\Exercício J.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\5.2.1 - Exercício 1 (do)\Exercício J\Exercício J\obj\Debug\Exercício J.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\5.2.1 - Exercício 1 (do)\Exercício J\Exercício J\obj\Debug\Exercício J.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\5.2.1 - Exercício 1 (do)\Exercício J\Exercício J\obj\Debug\Exercício J.pdb

@@ -1,0 +1,7 @@
+C:\Users\jean_\source\repos\Exercício K\Exercício K\bin\Debug\Exercício K.exe.config
+C:\Users\jean_\source\repos\Exercício K\Exercício K\bin\Debug\Exercício K.exe
+C:\Users\jean_\source\repos\Exercício K\Exercício K\bin\Debug\Exercício K.pdb
+C:\Users\jean_\source\repos\Exercício K\Exercício K\obj\Debug\Exercício K.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\Exercício K\Exercício K\obj\Debug\Exercício K.exe
+C:\Users\jean_\source\repos\Exercício K\Exercício K\obj\Debug\Exercício K.pdb
+C:\Users\jean_\source\repos\Exercício K\Exercício K\obj\Debug\Exercício K.csprojAssemblyReference.cache

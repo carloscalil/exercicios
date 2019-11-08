@@ -1,0 +1,7 @@
+C:\Users\34757.ETECPAOF.000\Desktop\Pagina 74\ex B\ex B\obj\Debug\ex B.csprojAssemblyReference.cache
+C:\Users\34757.ETECPAOF.000\Desktop\Pagina 74\ex B\ex B\obj\Debug\ex B.csproj.CoreCompileInputs.cache
+C:\Users\34757.ETECPAOF.000\Desktop\Pagina 74\ex B\ex B\bin\Debug\ex B.exe.config
+C:\Users\34757.ETECPAOF.000\Desktop\Pagina 74\ex B\ex B\bin\Debug\ex B.exe
+C:\Users\34757.ETECPAOF.000\Desktop\Pagina 74\ex B\ex B\bin\Debug\ex B.pdb
+C:\Users\34757.ETECPAOF.000\Desktop\Pagina 74\ex B\ex B\obj\Debug\ex B.exe
+C:\Users\34757.ETECPAOF.000\Desktop\Pagina 74\ex B\ex B\obj\Debug\ex B.pdb

@@ -1,0 +1,7 @@
+C:\Users\34757.ETECPAOF.002\Desktop\ex matriz\exF pag 100\exF pag 100\bin\Debug\exF pag 100.exe.config
+C:\Users\34757.ETECPAOF.002\Desktop\ex matriz\exF pag 100\exF pag 100\bin\Debug\exF pag 100.exe
+C:\Users\34757.ETECPAOF.002\Desktop\ex matriz\exF pag 100\exF pag 100\bin\Debug\exF pag 100.pdb
+C:\Users\34757.ETECPAOF.002\Desktop\ex matriz\exF pag 100\exF pag 100\obj\Debug\exF pag 100.csprojAssemblyReference.cache
+C:\Users\34757.ETECPAOF.002\Desktop\ex matriz\exF pag 100\exF pag 100\obj\Debug\exF pag 100.csproj.CoreCompileInputs.cache
+C:\Users\34757.ETECPAOF.002\Desktop\ex matriz\exF pag 100\exF pag 100\obj\Debug\exF pag 100.exe
+C:\Users\34757.ETECPAOF.002\Desktop\ex matriz\exF pag 100\exF pag 100\obj\Debug\exF pag 100.pdb

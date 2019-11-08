@@ -1,0 +1,7 @@
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-C\ex-C\bin\Debug\ex-C.exe.config
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-C\ex-C\bin\Debug\ex-C.exe
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-C\ex-C\bin\Debug\ex-C.pdb
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-C\ex-C\obj\Debug\ex-C.csprojAssemblyReference.cache
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-C\ex-C\obj\Debug\ex-C.csproj.CoreCompileInputs.cache
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-C\ex-C\obj\Debug\ex-C.exe
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-C\ex-C\obj\Debug\ex-C.pdb

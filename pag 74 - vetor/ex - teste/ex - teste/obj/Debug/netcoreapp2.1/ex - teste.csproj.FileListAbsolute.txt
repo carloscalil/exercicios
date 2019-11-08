@@ -1,0 +1,11 @@
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\bin\Debug\netcoreapp2.1\ex - teste.deps.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\bin\Debug\netcoreapp2.1\ex - teste.runtimeconfig.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\bin\Debug\netcoreapp2.1\ex - teste.runtimeconfig.dev.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\bin\Debug\netcoreapp2.1\ex - teste.dll
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\bin\Debug\netcoreapp2.1\ex - teste.pdb
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\obj\Debug\netcoreapp2.1\ex - teste.csproj.CoreCompileInputs.cache
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\obj\Debug\netcoreapp2.1\ex - teste.AssemblyInfoInputs.cache
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\obj\Debug\netcoreapp2.1\ex - teste.AssemblyInfo.cs
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\obj\Debug\netcoreapp2.1\ex - teste.dll
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\obj\Debug\netcoreapp2.1\ex - teste.pdb
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex - teste\ex - teste\obj\Debug\netcoreapp2.1\ex - teste.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Calil\Desktop\ex matriz\exD pag 100\exD pag 100\bin\Debug\exD pag 100.exe.config
+C:\Users\Calil\Desktop\ex matriz\exD pag 100\exD pag 100\bin\Debug\exD pag 100.exe
+C:\Users\Calil\Desktop\ex matriz\exD pag 100\exD pag 100\bin\Debug\exD pag 100.pdb
+C:\Users\Calil\Desktop\ex matriz\exD pag 100\exD pag 100\obj\Debug\exD pag 100.csprojAssemblyReference.cache
+C:\Users\Calil\Desktop\ex matriz\exD pag 100\exD pag 100\obj\Debug\exD pag 100.csproj.CoreCompileInputs.cache
+C:\Users\Calil\Desktop\ex matriz\exD pag 100\exD pag 100\obj\Debug\exD pag 100.exe
+C:\Users\Calil\Desktop\ex matriz\exD pag 100\exD pag 100\obj\Debug\exD pag 100.pdb
+C:\Users\Calil\Desktop\ex matriz\pag 100\exD pag 100\exD pag 100\bin\Debug\exD pag 100.exe.config
+C:\Users\Calil\Desktop\ex matriz\pag 100\exD pag 100\exD pag 100\bin\Debug\exD pag 100.exe
+C:\Users\Calil\Desktop\ex matriz\pag 100\exD pag 100\exD pag 100\bin\Debug\exD pag 100.pdb
+C:\Users\Calil\Desktop\ex matriz\pag 100\exD pag 100\exD pag 100\obj\Debug\exD pag 100.csprojAssemblyReference.cache
+C:\Users\Calil\Desktop\ex matriz\pag 100\exD pag 100\exD pag 100\obj\Debug\exD pag 100.csproj.CoreCompileInputs.cache
+C:\Users\Calil\Desktop\ex matriz\pag 100\exD pag 100\exD pag 100\obj\Debug\exD pag 100.exe
+C:\Users\Calil\Desktop\ex matriz\pag 100\exD pag 100\exD pag 100\obj\Debug\exD pag 100.pdb

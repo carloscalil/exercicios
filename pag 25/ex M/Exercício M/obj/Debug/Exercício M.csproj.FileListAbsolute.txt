@@ -1,0 +1,6 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercício M\Exercício M\bin\Debug\Exercício M.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercício M\Exercício M\bin\Debug\Exercício M.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercício M\Exercício M\bin\Debug\Exercício M.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercício M\Exercício M\obj\Debug\Exercício M.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercício M\Exercício M\obj\Debug\Exercício M.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercício M\Exercício M\obj\Debug\Exercício M.pdb

@@ -1,0 +1,13 @@
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\obj\Debug\ex-G.csproj.CoreCompileInputs.cache
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\bin\Debug\ex-G.exe.config
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\bin\Debug\ex-G.exe
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\bin\Debug\ex-G.pdb
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\obj\Debug\ex-G.exe
+C:\Users\32691.ETECPAOF.000\Desktop\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\obj\Debug\ex-G.pdb
+F:\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\bin\Debug\ex-G.exe.config
+F:\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\bin\Debug\ex-G.exe
+F:\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\bin\Debug\ex-G.pdb
+F:\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\obj\Debug\ex-G.csprojAssemblyReference.cache
+F:\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\obj\Debug\ex-G.csproj.CoreCompileInputs.cache
+F:\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\obj\Debug\ex-G.exe
+F:\Desenvolvimento de sistemas\Exercicios C#\Pagina 74\ex-G\ex-G\obj\Debug\ex-G.pdb

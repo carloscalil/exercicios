@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício C\Exercício C\obj\Debug\Exercício C.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício C\Exercício C\obj\Debug\Exercício C.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício C\Exercício C\bin\Debug\Exercício C.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício C\Exercício C\bin\Debug\Exercício C.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício C\Exercício C\bin\Debug\Exercício C.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício C\Exercício C\obj\Debug\Exercício C.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício C\Exercício C\obj\Debug\Exercício C.pdb

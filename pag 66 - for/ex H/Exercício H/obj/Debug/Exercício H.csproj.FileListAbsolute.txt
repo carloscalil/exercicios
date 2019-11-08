@@ -1,0 +1,14 @@
+C:\Users\jean_\source\repos\Exercício H\Exercício H\obj\Debug\Exercício H.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\Exercício H\Exercício H\bin\Debug\Exercício H.exe.config
+C:\Users\jean_\source\repos\Exercício H\Exercício H\bin\Debug\Exercício H.exe
+C:\Users\jean_\source\repos\Exercício H\Exercício H\bin\Debug\Exercício H.pdb
+C:\Users\jean_\source\repos\Exercício H\Exercício H\obj\Debug\Exercício H.exe
+C:\Users\jean_\source\repos\Exercício H\Exercício H\obj\Debug\Exercício H.pdb
+C:\Users\jean_\source\repos\Exercício H\Exercício H\obj\Debug\Exercício H.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.6.1 - Exercício 1\Exercício H\Exercício H\bin\Debug\Exercício H.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.6.1 - Exercício 1\Exercício H\Exercício H\bin\Debug\Exercício H.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.6.1 - Exercício 1\Exercício H\Exercício H\bin\Debug\Exercício H.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.6.1 - Exercício 1\Exercício H\Exercício H\obj\Debug\Exercício H.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.6.1 - Exercício 1\Exercício H\Exercício H\obj\Debug\Exercício H.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.6.1 - Exercício 1\Exercício H\Exercício H\obj\Debug\Exercício H.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\5.6.1 - Exercício 1\Exercício H\Exercício H\obj\Debug\Exercício H.pdb

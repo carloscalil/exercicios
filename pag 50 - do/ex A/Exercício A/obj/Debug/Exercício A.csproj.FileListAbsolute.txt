@@ -1,0 +1,7 @@
+C:\Users\jean_\source\repos\Exercício A\Exercício A\obj\Debug\Exercício A.csprojAssemblyReference.cache
+C:\Users\jean_\source\repos\Exercício A\Exercício A\obj\Debug\Exercício A.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\Exercício A\Exercício A\bin\Debug\Exercício A.exe.config
+C:\Users\jean_\source\repos\Exercício A\Exercício A\bin\Debug\Exercício A.exe
+C:\Users\jean_\source\repos\Exercício A\Exercício A\bin\Debug\Exercício A.pdb
+C:\Users\jean_\source\repos\Exercício A\Exercício A\obj\Debug\Exercício A.exe
+C:\Users\jean_\source\repos\Exercício A\Exercício A\obj\Debug\Exercício A.pdb

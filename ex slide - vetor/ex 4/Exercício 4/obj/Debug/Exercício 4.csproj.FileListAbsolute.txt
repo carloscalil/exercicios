@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 4\Exercício 4\obj\Debug\Exercício 4.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 4\Exercício 4\obj\Debug\Exercício 4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 4\Exercício 4\bin\Debug\Exercício 4.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 4\Exercício 4\bin\Debug\Exercício 4.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 4\Exercício 4\bin\Debug\Exercício 4.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 4\Exercício 4\obj\Debug\Exercício 4.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\C-Sharp\Exercícios Slides\Exercício 4\Exercício 4\obj\Debug\Exercício 4.pdb

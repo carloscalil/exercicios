@@ -1,0 +1,6 @@
+C:\Users\jean_\source\repos\Exercício F\Exercício F\bin\Debug\Exercício F.exe.config
+C:\Users\jean_\source\repos\Exercício F\Exercício F\bin\Debug\Exercício F.exe
+C:\Users\jean_\source\repos\Exercício F\Exercício F\bin\Debug\Exercício F.pdb
+C:\Users\jean_\source\repos\Exercício F\Exercício F\obj\Debug\Exercício F.csproj.CoreCompileInputs.cache
+C:\Users\jean_\source\repos\Exercício F\Exercício F\obj\Debug\Exercício F.exe
+C:\Users\jean_\source\repos\Exercício F\Exercício F\obj\Debug\Exercício F.pdb

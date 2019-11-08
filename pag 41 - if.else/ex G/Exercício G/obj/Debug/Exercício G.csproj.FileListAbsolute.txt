@@ -1,0 +1,6 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício G\Exercício G\obj\Debug\Exercício G.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício G\Exercício G\bin\Debug\Exercício G.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício G\Exercício G\bin\Debug\Exercício G.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício G\Exercício G\bin\Debug\Exercício G.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício G\Exercício G\obj\Debug\Exercício G.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício G\Exercício G\obj\Debug\Exercício G.pdb

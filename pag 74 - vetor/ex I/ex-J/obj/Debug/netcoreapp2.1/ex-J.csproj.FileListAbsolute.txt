@@ -1,0 +1,10 @@
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\bin\Debug\netcoreapp2.1\ex-J.deps.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\bin\Debug\netcoreapp2.1\ex-J.runtimeconfig.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\bin\Debug\netcoreapp2.1\ex-J.runtimeconfig.dev.json
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\bin\Debug\netcoreapp2.1\ex-J.dll
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\bin\Debug\netcoreapp2.1\ex-J.pdb
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\obj\Debug\netcoreapp2.1\ex-J.csproj.CoreCompileInputs.cache
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\obj\Debug\netcoreapp2.1\ex-J.AssemblyInfoInputs.cache
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\obj\Debug\netcoreapp2.1\ex-J.AssemblyInfo.cs
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\obj\Debug\netcoreapp2.1\ex-J.dll
+C:\Users\Calil\Desktop\Exercicios C#\Pagina 74\ex-J\ex-J\obj\Debug\netcoreapp2.1\ex-J.pdb

@@ -1,0 +1,7 @@
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício H\Exercício H\obj\Debug\Exercício H.csprojAssemblyReference.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício H\Exercício H\obj\Debug\Exercício H.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício H\Exercício H\bin\Debug\Exercício H.exe.config
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício H\Exercício H\bin\Debug\Exercício H.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício H\Exercício H\bin\Debug\Exercício H.pdb
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício H\Exercício H\obj\Debug\Exercício H.exe
+D:\OneDrive\Desenvolvimento de Sistemas (ETEC)\Programação e Algoritmo (Patrícia)\Visual Studio\Exercícios 4.7\Exercício H\Exercício H\obj\Debug\Exercício H.pdb
